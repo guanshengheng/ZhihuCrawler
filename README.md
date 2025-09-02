@@ -55,4 +55,4 @@ python zhihu_crawler.py
 - 建议设置适当的爬取间隔
 - Cookie可能需要定期更新
 
-Readme.md由Claude Sonnet 4生成，请注意甄别。如有问题可联系QQ：3406702953
+Readme.md由Claude Sonnet 4生成，请注意甄别。如有问题可联系QQ：3321510175
